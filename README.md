@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @de4dst4r
-- 🃏 你可以叫我邮专小丑 
-- 🌱 废物小前端
+- 🃏 邮专小丑 
+- 🌱 废物前端
 - 📫 WeChart：llfc365
 - 😄 Pronouns: ...
 
