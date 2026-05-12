@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @de4dst4r
-- 🃏 邮专小丑 
 - 🌱 废物前端
 - 📫 WeChart：llfc365
 - 😄 Pronouns: ...
